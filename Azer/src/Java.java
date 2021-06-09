@@ -13,6 +13,9 @@ public class Java {
     public void  cixma(int a,int b){
         System.out.println("Cem: = "+(a+b));
     }
+    public void cixam(int a,int b){
+        System.out.println("Cem: = "+(a-b));
+    }
 }
 
 
